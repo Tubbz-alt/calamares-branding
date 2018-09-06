@@ -9,6 +9,12 @@ strings:
     versionedName:       Artix Linux "rolling"
     shortVersionedName:  Artix rolling
     bootloaderEntryName: Artix
+    productUrl:          https://www.artixlinux.org/
+    supportUrl:          https://github.com/calamares/calamares/issues
+    knownIssuesUrl:      https://calamares.io/about/
+    releaseNotesUrl:     https://calamares.io/about/
+
+welcomeExpandingLogo:   true
 
 images:
     productLogo:         "logo.png"
