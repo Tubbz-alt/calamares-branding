@@ -17,8 +17,8 @@ strings:
 welcomeExpandingLogo:   true
 
 images:
-    productLogo:         "logo.png"
-    productIcon:         "logo.png"
+    productLogo:         "logo.svg"
+    productIcon:         "logo.svg"
     productWelcome:      "languages.png"
 
 slideshow:               "show.qml"
