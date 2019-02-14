@@ -1,7 +1,7 @@
  BRANDING = \
 	branding.desc \
 	languages.png \
-	logo.png \
+	logo.svg \
 	show.qml \
 	squid.png
 
