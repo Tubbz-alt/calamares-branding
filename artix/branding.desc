@@ -1,6 +1,14 @@
 ---
 componentName:  artix
 
+welcomeStyleCalamares:   false
+
+welcomeExpandingLogo:   true
+
+windowExpanding:    normal
+
+windowSize: 800px,520px
+
 strings:
     productName:         Artix Linux
     shortProductName:    Artix
